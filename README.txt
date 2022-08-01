@@ -1,33 +1,7 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my technical portfolio! I'm Tri Bien , Robotics Lab Engineer at Vietnamese German University .
+I have an extensive background in robotics design, systems engineering, and computer science. 
+My research interest is Human-Robot Interaction, Robotic Design, Machine Learning, 
+and Developing autonomous intelligent robots based on ROS (Robot Operating System).
 
-
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Throughout my experiences, I graduated ( 2017) from Karlsruhe University of Applied Sciences with a Master of Mechatronics System and Sensor Technology.
+With a strong passion for the robotics field, I have worked in researching and designing several robotics projects, which are displayed here.
