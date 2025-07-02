@@ -123,9 +123,9 @@ input, select, textarea {
 
 	strong, b {
 		color: #1d1c1c;
-		font-weight: 400;
+  		font-weight: bold;
 	}
-
+	
 	em, i {
 		font-style: italic;
 	}
